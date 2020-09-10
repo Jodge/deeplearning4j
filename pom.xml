@@ -55,7 +55,7 @@
         <datavec.version>0.6.1-SNAPSHOT</datavec.version>
         <commonsmath.version>3.4.1</commonsmath.version>
         <commonslang.version>3.3.1</commonslang.version>
-        <commonsio.version>2.4</commonsio.version>
+        <commonsio.version>2.8.0</commonsio.version>
         <args4j.version>2.0.29</args4j.version>
         <slf4j.version>1.7.12</slf4j.version>
         <junit.version>4.12</junit.version>
